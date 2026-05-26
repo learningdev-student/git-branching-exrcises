@@ -1,3 +1,1 @@
 Git Branching Excursus
-
-Changes from feature-authentication branch based on main
